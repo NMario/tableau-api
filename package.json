@@ -1,0 +1,10 @@
+{
+  "name": "tableau-api",
+  "version": "2.2.2",
+  "description": "Tableau JS API wrapped as NPM module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMario/tableau-api.git"
+  }
+}
